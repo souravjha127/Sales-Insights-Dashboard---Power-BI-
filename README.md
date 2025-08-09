@@ -33,9 +33,11 @@ Data Source – SQL database / CSV exports containing:
 5) Customer Performance Table – Ranks customers by revenue, revenue contribution %, profit margin %, and profit contribution %.
 
 ## Business Impact & Insights
-Market Prioritization – Bhubaneswar emerged as the top revenue contributor (10.48%), while Lucknow showed negative growth (-2%), signaling a need for intervention.
-Profitability Optimization – Some markets showed strong revenue but low margins, enabling cost-reduction and efficiency plans.
-Trend Detection – Seasonal demand drops identified, helping with inventory and marketing alignment.
-Customer Retention – Pinpointed top customers driving profits, guiding targeted retention strategies.
-Data-Driven Decisions – Provided the leadership team with evidence-backed insights for market expansion, promotional campaigns, and operational improvements.
+- Market Prioritization – Bhubaneswar emerged as the top revenue contributor (10.48%), while Lucknow showed negative growth (-2%), signaling a need for intervention.
+- Profitability Optimization – Some markets showed strong revenue but low margins, enabling cost-reduction and efficiency plans.
+- Trend Detection – Seasonal demand drops identified, helping with inventory and marketing alignment.
+- Customer Retention – Pinpointed top customers driving profits, guiding targeted retention strategies.
+- Data-Driven Decisions – Provided the leadership team with evidence-backed insights for market expansion, promotional campaigns, and operational improvements.
 
+## Dashboard Preview
+[Dashboard Preview](    )
