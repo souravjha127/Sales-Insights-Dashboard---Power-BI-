@@ -1,4 +1,4 @@
-# Sales Insights Dashboard->Power-BI
+# Sales Insights Dashboard->Power-BI <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="30"/>
 This project presents an interactive and visually rich Sales Insights Dashboard built with Microsoft Power BI, aimed at uncovering key business metrics from raw sales data extracted from SQL.
 
 The dashboard empowers stakeholders to make data-driven decisions by providing a comprehensive view of sales performance, profit trends, and regional insights.
